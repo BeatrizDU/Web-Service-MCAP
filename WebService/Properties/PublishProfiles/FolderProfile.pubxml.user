@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\bdu_9\source\repos\WebService\WebService\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-24T22:20:12.4032321Z;True|2023-05-24T16:12:36.3865464-06:00;True|2023-05-24T16:07:09.6391872-06:00;True|2023-05-24T15:49:13.1919004-06:00;True|2023-05-24T15:32:50.6336654-06:00;True|2023-05-24T13:46:08.9306170-06:00;True|2023-05-24T12:35:48.5485958-06:00;True|2023-05-24T12:27:20.4685610-06:00;True|2023-05-24T11:45:51.4870893-06:00;True|2023-05-20T15:28:15.3957670-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
